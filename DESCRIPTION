@@ -1,0 +1,9 @@
+Package: missingR
+Version: 0.1.0
+Date: 2017-01-28
+Title: Dealing with Missing Data
+Description: Functions applicable to missing data.
+Author: Alfonso R. Reyes <alfonso.r.reyes@gmail.com>
+Maintainer: Alfonso R. Reyes <alfonso.r.reyes@gmail.com>
+RoxygenNote: 5.0.1
+License: GPL-3
